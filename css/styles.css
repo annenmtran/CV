@@ -1,0 +1,80 @@
+body {
+    background-color: #FEFBF3;
+    font-family: serif;
+}
+
+.heading {
+
+    padding-top: 20px;
+
+
+}
+
+hr {
+
+    border-style: none;
+    border-top: solid;
+    border-color: #474E68;
+    border-width: 1px;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 25px;
+
+}
+
+input {
+    margin-bottom: 10px;
+
+}
+
+h1 {
+    color: #3A8891;
+
+}
+
+h3 {
+    color: #67aab1;
+    font-size: 1.3rem;
+    margin-top: 30px;
+
+}
+
+a:visited,
+a:link,
+a:active {
+
+    line-height: 30px;
+    text-decoration: none;
+
+
+
+}
+
+.end-link1 {
+
+    position: relative;
+    top: 20px;
+
+
+}
+
+.end-link2 {
+
+    position: relative;
+    top: 20px;
+    margin-left: 35px;
+    padding-bottom: 50px;
+}
+
+form {
+
+    line-height: 2;
+
+}
+
+.star {
+
+    color: #474E68;
+
+
+}
